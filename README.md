@@ -1,0 +1,1 @@
+# Dailycura-privacy-policy
