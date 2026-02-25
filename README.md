@@ -1,14 +1,14 @@
-# Dailycura Privacy Policy
+# Torvex Privacy Policy
 
 **Last updated: February 20, 2026**
 
-This Privacy Policy explains how **Dailycura** (“we”, “us”) collects, uses, and shares information when you use the Dailycura mobile application (the “App”).
+This Privacy Policy explains how **Torvex** (“we”, “us”) collects, uses, and shares information when you use the Torvex mobile application (the “App”).
 
 ---
 
 ## 1. Overview
 
-This Privacy Policy applies to the Dailycura app and describes our practices regarding the information we collect, use, and disclose in connection with the App.
+This Privacy Policy applies to the Torvex app and describes our practices regarding the information we collect, use, and disclose in connection with the App.
 
 ---
 
@@ -16,7 +16,7 @@ This Privacy Policy applies to the Dailycura app and describes our practices reg
 
 The App stores information you enter, such as:
 
-- Medicine names, schedules, reminders, and notes  
+- Routine names, schedules, reminders, and notes  
 - If you sign in, we may also store basic profile details such as your email address and name (if you provide it)  
 - Family and sharing-related data you choose to add (e.g. family members, access keys)
 
@@ -30,7 +30,7 @@ The App and our service providers may collect technical information such as devi
 
 ## 4. Ads and Advertising Identifiers
 
-We may show ads in the App. Ad providers (for example Google ad services such as AdMob/AdSense) may use advertising identifiers and similar technologies to deliver and measure ads, including personalized or non-personalized ads depending on your settings and applicable laws.
+The App does not show ads at this time and does not use advertising identifiers for advertising or attribution.
 
 ---
 
@@ -41,7 +41,6 @@ We use the information we collect to:
 - Provide core features (such as reminders and sync)  
 - Maintain security and troubleshoot issues  
 - Personalize your experience  
-- Support monetization (e.g. ads) where applicable  
 
 ---
 
@@ -49,7 +48,7 @@ We use the information we collect to:
 
 We may share information with:
 
-- **Service providers** that help operate the App (such as Google Firebase for authentication and storage, and ad or analytics providers)  
+- **Service providers** that help operate the App (such as Google Firebase for authentication and storage)  
 - **Authorities or others** when required by law or to protect users and the App  
 
 ---
@@ -82,4 +81,4 @@ We may update this Privacy Policy from time to time. We will indicate the “Las
 
 For questions or privacy requests (including account or data deletion), contact us at:
 
-**dailycuraofficial@gmail.com**
+**torvexapp@gmail.com**
